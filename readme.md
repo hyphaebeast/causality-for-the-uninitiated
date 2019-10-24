@@ -72,6 +72,7 @@ _The time frames are only estimates and may vary according to how the class is p
 
 ## Books
 
+* [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 * [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/)
 * [Causal Inference for Statistics, Social, and Biomedical Sciences](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
 * [Counterfactuals and Causal Inference Methods and Principles for Social Research](https://www.cambridge.org/core/books/counterfactuals-and-causal-inference/5CC81E6DF63C5E5A8B88F79D45E1D1B7)
