@@ -70,11 +70,12 @@ _The time frames are only estimates and may vary according to how the class is p
 * Automated Graph Discovery
 * Q&A
 
-## Books
+## Resources
 
-* [Fairness and Machine Learning: Chapter 4](https://fairmlbook.org/causal.html)
+### Books
+
+* [Elements of Causal Inference](https://mitpress.mit.edu/books/elements-causal-inference)
 * [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
-* [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/)
 * [Causal Inference for Statistics, Social, and Biomedical Sciences](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
 * [Counterfactuals and Causal Inference Methods and Principles for Social Research](https://www.cambridge.org/core/books/counterfactuals-and-causal-inference/5CC81E6DF63C5E5A8B88F79D45E1D1B7)
 * [Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
@@ -83,19 +84,22 @@ _The time frames are only estimates and may vary according to how the class is p
     * Chapter 20: Identifying Causal Effects from Observations
     * Chapter 21: Estimating Causal Effects from Observations
     * Chapter 22: Discovering Causal Structure from Observations
-* [Graphical & Latent Variable Modeling](https://m-clark.github.io/sem/)
+* [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/)
 
-## Courses
+### Courses
 
 * [Applied Causality (Columbia)](http://www.cs.columbia.edu/~blei/seminar/2019-applied-causality/index.html)
 * [Intermediate Statistics (CMU): Causal Inference](http://www.stat.cmu.edu/~larry/=stat705/Lecture17.pdf)
 * [Causal Inference and Learning (UIC)](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html)
 * [KDD Tutorial on Causal Inference and Counterfactual Reasoning](https://causalinference.gitlab.io/kdd-tutorial/)
 
-## References
+### References
 
+* [Causality for Machine Learning](https://arxiv.org/abs/1911.10500v1)
+* [Fairness and Machine Learning: Chapter 4](https://fairmlbook.org/causal.html)
 * [Causal Inference Animated Plots](http://nickchk.com/causalgraphs.html)
 * [Causal Data Science blog posts](https://medium.com/causal-data-science/causal-data-science-721ed63a4027)
 * [Causal inference in statistics: An overview](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
 * [The Statistics of Causal Inference: A View from Political Methodology](http://lukekeele.com/wp-content/uploads/2016/03/causal.pdf)
 * [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext)
+* [Graphical & Latent Variable Modeling](https://m-clark.github.io/sem/)
