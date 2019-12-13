@@ -74,6 +74,7 @@ _The time frames are only estimates and may vary according to how the class is p
 
 ### Books
 
+* [Causal Reasoning: Fundamentals and Machine Learning Applications](https://causalinference.gitlab.io/)
 * [Elements of Causal Inference](https://mitpress.mit.edu/books/elements-causal-inference)
 * [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 * [Causal Inference for Statistics, Social, and Biomedical Sciences](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)
